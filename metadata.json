@@ -1,0 +1,6 @@
+{
+  "name": "Zntra Optics OS CRM",
+  "description": "نظام إدارة المبيعات وفريق العمل المخصص لمحلات النظارات ومراكز البصريات - Zntra Optics OS",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
